@@ -17,16 +17,20 @@
 > **Victor Manuel Alvarez Ramiro**<br/>
 >   * Email: vm.alvarezr@alumnos.urjc.es<br/>
 >   * Cuenta GitHub: vmalvarezramiro <br/>
+> **Roberto Jiménez Pulgar**<br/>
+>   * Email: r.jimenezpu@alumnos.urjc.es<br/>
+>   * Cuenta GitHub: Sryiwen <br/>
+> **Damián Ortiz Barahona**<br/>
+>   * Email: d.ortizb@alumnos.urjc.es<br/>
+>   * Cuenta GitHub: xxxxxxxx <br/>
 >
 > ## Tablero Trello
->  [Tablero BuyCars] (https://trello.com/b/nOOSD1xP/tareas-proyecto)
+>  [Tablero Premium Deluxe MotorSport] (https://trello.com/premiumdeluxemotorsport)
 >
-> ## Diagrama de navegacion
->  [Diagrama de navegación] ( https://app.genmymodel.com/edit/_6TDwkCVUEemcRoPW7FVMlA#)  
 >
 >
 > ## Diagrama UML
-> [Diagrama UML] (https://app.genmymodel.com/edit/_6TDwkCVUEemcRoPW7FVMlA#)
+> [Diagrama UML] (URL UML   app.genmymodel.com)
 >
 >## Diagrama Entidad-Relacion
-> [Diagrama Entidad-Relación] (https://app.genmymodel.com/edit/_6TDwkCVUEemcRoPW7FVMlA#)
+> [Diagrama Entidad-Relación] ( URL Entidad-Realción app.genmymodel.com)
