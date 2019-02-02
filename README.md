@@ -15,7 +15,7 @@
 > 
 > ## Integrantes del equipo de desarrollo:
 > **Victor Manuel Alvarez Ramiro**<br/>
->   * Email: vm.alvarezramiro@alumnos.urjc.es<br/>
+>   * Email: vm.alvarezr@alumnos.urjc.es<br/>
 >   * Cuenta GitHub: vmalvarezramiro <br/>
 >
 > ## Tablero Trello
