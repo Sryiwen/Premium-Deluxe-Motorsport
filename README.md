@@ -19,7 +19,7 @@
 >   * Cuenta GitHub: vmalvarezramiro <br/>
 > **Roberto Jiménez Pulgar**<br/>
 >   * Email: r.jimenezpu@alumnos.urjc.es<br/>
->   * Cuenta GitHub: Sryiwen <br/>
+>   * Cuenta GitHub: robertojimenezpulgar <br/>
 > **Damián Ortiz Barahona**<br/>
 >   * Email: d.ortizb@alumnos.urjc.es<br/>
 >   * Cuenta GitHub: xxxxxxxx <br/>
